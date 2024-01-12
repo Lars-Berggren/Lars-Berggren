@@ -1,13 +1,15 @@
-<h1>Hi, I'm Lars! <br/>Family Man</a>, <a href="https://www.linkedin.com/in/Lars-Berggren-379538233/">Cybersecurity Professional</a>
+<h1>Hi, I'm Lars! <br/>Family Man</a>, <a href="https://www.linkedin.com/in/Lars-Berggren-379538233/">Cybersecurity Professional</a>, Veteran
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
+- Working on Azure Sentinal (SIEM) Lab with Map Vizualization of failed RDP entries into Honey Pot VM
+
 <h2>📺 Certifications</h2>
 
-- [Comptia Network+]()
-- [Comptia Security+]()
-- [Comptia Cloud+]()
-- 
+- Comptia Network+
+- Comptia Security+
+- Comptia Cloud+
+- Cisco CCNA
 
 <h2> 🤳 Connect with me:</h2>
 
