@@ -9,6 +9,7 @@
 - Comptia Network+
 - Comptia Security+
 - Comptia Cloud+
+- Comptia CySA+
 - Cisco CCNA
 
 <h2> 🤳 Connect with me:</h2>
