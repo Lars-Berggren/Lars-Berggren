@@ -1,4 +1,4 @@
-<h1>Hi, I'm Lars! <br/><a href="https://github.com/lars-berggren">Family Man</a>, <a href="https://www.linkedin.com/in/Lars-Berggren-379538233/">Cybersecurity Professional</a>
+<h1>Hi, I'm Lars! <br/>Family Man</a>, <a href="https://www.linkedin.com/in/Lars-Berggren-379538233/">Cybersecurity Professional</a>
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
