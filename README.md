@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
-- Working on Azure Sentinal (SIEM) Lab with Map Vizualization of failed RDP entries into Honey Pot VM
+-🔭 Working on Azure Sentinal (SIEM) Lab with Map Vizualization of failed RDP entries into Honey Pot VM
 
 <h2>📺 Certifications</h2>
 
