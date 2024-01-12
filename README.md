@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
--🔭 Working on Azure Sentinal (SIEM) Lab with Map Vizualization of failed RDP entries into Honey Pot VM
+-🔭 [Azure Sentinal Lab](https://github.com/Lars-Berggren/Sentinal-Lab.git)
 
 <h2>📺 Certifications</h2>
 
