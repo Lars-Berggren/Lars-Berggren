@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
 -🔭 [Azure Sentinal Lab](https://github.com/Lars-Berggren/Sentinal-Lab.git)
--🔭 [Vulnerability Management with Tenable Nessus](
+-🔭 [Vulnerability Management with Tenable Nessus](https://github.com/Lars-Berggren/Vulnerability-Management-with-Nessus)
 
 <h2>📺 Certifications</h2>
 
