@@ -13,6 +13,7 @@
 - Comptia Cloud+
 - Comptia CySA+
 - Cisco CCNA
+- Microsoft Azure Administrator (AZ-104)
 
 <h2> 🤳 Connect with me:</h2>
 
