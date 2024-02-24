@@ -6,6 +6,10 @@
 
 -🔭 [Vulnerability Management with Tenable Nessus](https://github.com/Lars-Berggren/Vulnerability-Management-with-Nessus)
 
+<h2> 💎 Solutions
+
+-☁️ [Cisco x Azure x Splunk](https://larsberggren.notion.site/SynthNetworks-daff66b607644375b7082714dab0b37c)
+
 <h2>📺 Certifications</h2>
 
 - Comptia Network+
